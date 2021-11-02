@@ -88,8 +88,8 @@ web request 去推送資料
   ### 在MATLAB中觸發服務
   
   以下簡單示範，如果執行一個長時間的程式發生錯誤的時候，如何及時發送LINE通知告訴你
-  (雖然你也無能為力)
-  [Demo Code] <a src="">LineNotification.m</a>
+  (雖然你也無能為力)<br>
+  [Demo Code] [LineNotification.m](https://github.com/sitdownplz/MATLAB-LineNotification/blob/main/LineNotification.m)
   
     try
       a = 0;
