@@ -82,7 +82,7 @@ web request 去推送資料
   如果成功的話應該會在LINE聊天室中看到自己設定的通知格式與對應地方所填入的資料
   <img src="https://i.imgur.com/XQz9GGW.jpg" width=500 length=300>
   <br>
-  如果確認沒問題的話，代表這套流程沒問題，大功告成!
+  如果正確運作的話代表這套流程沒問題，大功告成!
   
   ---
   ### 在MATLAB中觸發服務
